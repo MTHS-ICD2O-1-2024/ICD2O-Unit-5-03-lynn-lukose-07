@@ -4,6 +4,8 @@
 // Created on: April 2025
 // This file contains the JS functions for index.html
 
+"use strict"
+
 /**
  * This function check user's age and the type of movie they can watch
  */
